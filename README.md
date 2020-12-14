@@ -10,10 +10,7 @@ After the install,you will see an icon on the toolbar. The extension will turn o
 <br/>
 
 # How to use it
-Now you can go the the course dependancy graph: <br/>
-https://viewer.diagrams.net/?target=blank&highlight=7EA6E0&nav=1&title=CS%20course%20dependencies%202020.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D14aX-LiGUAZ4SX1V2n-Mkbg05vw48sd-1%26export%3Ddownload
-<br/><br/>
-You will see a green window at the bottom left corner. Just hover your cursor on the course circle and you can see the course description page in the window. <br/>
+Now you can go the the course dependancy graph, and you will see a green window at the bottom left corner. Just hover your cursor on the course circle and you can see the course description page in the window. <br/>
 ![image](https://user-images.githubusercontent.com/9410877/102100638-a45ad500-3e64-11eb-993e-74b2b4a65122.png)
 <br/>
 Vualá! the course details is now in the iframe at the bottom left.
@@ -21,4 +18,6 @@ Vualá! the course details is now in the iframe at the bottom left.
 ![image](https://user-images.githubusercontent.com/9410877/102100717-b89ed200-3e64-11eb-9192-f4fe8e67a4c4.png)
 <br/>
 
-Feel free to download the extension and load it in the extension setting in Chrome. Also, check out the Dartmouth CS/DA course dependency graph here: 
+Try out the Dartmouth CS/DA course dependency graph by yourself: <br/>
+https://viewer.diagrams.net/?target=blank&highlight=7EA6E0&nav=1&title=CS%20course%20dependencies%202020.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D14aX-LiGUAZ4SX1V2n-Mkbg05vw48sd-1%26export%3Ddownload
+<br/><br/>
