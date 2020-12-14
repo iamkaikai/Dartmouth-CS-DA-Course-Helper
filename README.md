@@ -11,11 +11,12 @@ After the install,you will see an icon on the toolbar. The extension will turn o
 
 # How to use it
 Now you can go the the course dependancy graph, and you will see a green window at the bottom left corner. Just hover your cursor on the course circle and you can see the course description page in the window. <br/>
-![image](https://user-images.githubusercontent.com/9410877/102100638-a45ad500-3e64-11eb-993e-74b2b4a65122.png)
-<br/>
+![02](https://user-images.githubusercontent.com/9410877/102114463-310d8f00-3e75-11eb-8e30-6e7ac81dbb3b.jpg)
+<br/><br/>
 Vualá! the course details is now in the iframe at the bottom left.
+<br/><br/>
+![demo](https://user-images.githubusercontent.com/9410877/102113960-aa58b200-3e74-11eb-9f82-d0deab3befd5.gif)
 <br/>
-![image](https://user-images.githubusercontent.com/9410877/102100717-b89ed200-3e64-11eb-9192-f4fe8e67a4c4.png)
 <br/>
 
 Try out the Dartmouth CS/DA course dependency graph by yourself: <br/>
