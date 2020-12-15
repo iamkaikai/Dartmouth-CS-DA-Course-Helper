@@ -2,7 +2,7 @@
 Dartmouth CS/DA Course Helper is a tool for people who wants to check the [course dependency graph](https://web.cs.dartmouth.edu/undergraduate/undergraduate-courses#course-dag) of the Dartmouth CS program without opening a new tab of the actual course page. The extension is a little hack based on the DOM of "diagrams.net" (formerly draw.io)
 <br/>
 # Install the extension
-1. Download the files above and put them in to a same folder. 
+1. Download the files above and put them in to a same folder. (or directly install the extension from [Chrome Web Store](https://chrome.google.com/webstore/detail/dartmouth-csda-course-hel/mfbffgihnbhpgidccogbkcpcldmoeenf))
 2. Load the entire folder with the "Load unpacked" button in chrome://extensions/  (You can also install the extension through Chrome web store) <br/> <br/>
 ![image](https://user-images.githubusercontent.com/9410877/102101756-ff40fc00-3e65-11eb-99b8-5585d5bb44bc.png)
 <br/>
